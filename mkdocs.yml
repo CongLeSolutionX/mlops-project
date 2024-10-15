@@ -15,6 +15,18 @@ theme:
     - navigation.instant
     - toc.integrate
 
+## Try out Terminal theme
+# theme:
+#   name: terminal
+#   palette: gruvbox_dark
+#   features:
+#     - revision.date
+#     # - navigation.top.search_buton.hide
+#   plugins:
+#   - search
+#   - git-revision-date
+
+
 nav:
   - Home: index.md
 
